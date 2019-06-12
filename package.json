@@ -1,0 +1,20 @@
+{
+  "name": "rentpath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exportleads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "azure-storage": "^2.8.0",
+    "cli-spinner": "^0.2.8",
+    "commander": "^2.15.1",
+    "dotenv": "^5.0.0",
+    "moment": "^2.22.1",
+    "node-marketo-rest": "^0.7.5",
+    "numbro": "^2.0.6",
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
